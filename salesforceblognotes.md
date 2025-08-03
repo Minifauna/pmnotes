@@ -34,19 +34,19 @@
 ## What are the four type sof project management? (five listed above)
 1. Waterfall
  - Focuses on metliculously planning, breaking down, and scheduling the entire project sequentially. Best suited for when all project requirements can be reasonably defined upfront as well as fixed deadlines
- -![Waterfall](pmtypeWaterfall.png)
+ -![Waterfall](images/pmtypeWaterfall.png)
 2. Agile
  - An iterative approach enabling quick response to project feedback. Agile prioritizes:
     - adaptability
     - collaberation
     - incremental delivery
  - These qualities make it ideal for complex projects with evolving requirements, especially software development
- - ![Agile](pmtypeAgile.png)
+ - ![Agile](images/pmtypeAgile.png)
 3. Kanban
  - Focuses on continuous improvement through visualizing and managing the flow of work
  - Tasks move across the Kanban board as the project progresses, allowing for rapid adaptation and resolution of bottlenecks
  - Beneficial for projects with unpredictable workloads
- - ![Kanban](pmtypeKanban.png)
+ - ![Kanban](images/pmtypeKanban.png)
 4. Scrum
  - Divides larger projects into shorter sprints, adapting to project demands as it evolves
  - Rules are defined for:
@@ -55,7 +55,7 @@
     - planning
     - meetings
     - deliverables
- - ![Scrum](pmtypeScrum.png)
+ - ![Scrum](images/pmtypeScrum.png)
 5. Lean (Not covered in article)
 
 ## Eight tips for successfull project management

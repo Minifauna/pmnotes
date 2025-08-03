@@ -24,7 +24,7 @@ This book introduced five core principles:
  - Generate an improvement plan to enable to transformation from current to future state
 **Suggested further reading** Learning to See -Rother and Shook(1999)
 This book contains a powerful technique to map value stream which facilitates the identification of wastes and allows process improvement
-![Value Stream Map example](valuestreamMap.png)
+![Value Stream Map example](images/valuestreamMap.png)
 3. Make value flow by eliminating waste
  - Once the value is defined and the value stream is identified, create a continuous flow by eliminating backflows, scrap, rework, and interruptions
  - No stoppages, no waste
