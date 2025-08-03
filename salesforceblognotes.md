@@ -56,7 +56,7 @@
     - meetings
     - deliverables
  - ![Scrum](images/pmtypeScrum.png)
-5. Lean (Not covered in article)
+5. [Lean (Not covered in article)](leanpmnotes.md)
 
 ## Eight tips for successfull project management
 1. Invest in the initiation and planning stages to avoid later confusion
